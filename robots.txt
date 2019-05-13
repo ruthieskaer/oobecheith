@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeyeihaech.ferienwohnung-kaintz.at/sitemap.xml
